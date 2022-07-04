@@ -9,6 +9,8 @@ TagManager:
   - Enemy_ColorTime
   - WayPoint
   - EnenyVivo
+  - SFX
+  - MusicaFondo
   layers:
   - Default
   - TransparentFX

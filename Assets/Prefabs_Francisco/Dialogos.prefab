@@ -239,6 +239,7 @@ GameObject:
   - component: {fileID: 4847121089202209921}
   - component: {fileID: 4847121089202209926}
   - component: {fileID: 4847121089202209927}
+  - component: {fileID: 3556683135192027875}
   m_Layer: 5
   m_Name: Texto_4
   m_TagString: Untagged
@@ -322,6 +323,23 @@ MonoBehaviour:
   velocidadRetardo: 0.1
   textoCompleto: "Hasta que un d\xEDa desapareci\xF3. "
   textoActual: 
+  objetoSonidoLetras: {fileID: 0}
+  sonidoLetras: {fileID: 0}
+--- !u!114 &3556683135192027875
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4847121089202209925}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0.9245283, g: 0.87387276, b: 0.20409395, a: 0.5}
+  m_EffectDistance: {x: 1, y: -1}
+  m_UseGraphicAlpha: 1
 --- !u!1 &4847121089234291940
 GameObject:
   m_ObjectHideFlags: 0
@@ -709,6 +727,7 @@ GameObject:
   - component: {fileID: 4847121089586818411}
   - component: {fileID: 4847121089586818408}
   - component: {fileID: 4847121089586818409}
+  - component: {fileID: 2936157193091616894}
   m_Layer: 5
   m_Name: Texto_3
   m_TagString: Untagged
@@ -793,6 +812,23 @@ MonoBehaviour:
   textoCompleto: "Cada a\xF1o que pasaba, mi abuelo constantemente me hablaba mas
     del mago supremo y su medall\xF3n que le daba todo el poder con sus 4 gemas."
   textoActual: 
+  objetoSonidoLetras: {fileID: 0}
+  sonidoLetras: {fileID: 0}
+--- !u!114 &2936157193091616894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4847121089586818415}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0.9245283, g: 0.87387276, b: 0.20409395, a: 0.5}
+  m_EffectDistance: {x: 1, y: -1}
+  m_UseGraphicAlpha: 1
 --- !u!1 &4847121089611823859
 GameObject:
   m_ObjectHideFlags: 0
@@ -968,6 +1004,8 @@ MonoBehaviour:
   textoCompleto: "Mi abuelo me contaba que hace mucho tiempo en el mundo, exist\xEDan
     muchos magos, que hac\xEDan grandes cosas."
   textoActual: 
+  objetoSonidoLetras: {fileID: 0}
+  sonidoLetras: {fileID: 0}
 --- !u!1 &4847121089727374519
 GameObject:
   m_ObjectHideFlags: 0
@@ -1402,6 +1440,7 @@ GameObject:
   - component: {fileID: 4847121090251712045}
   - component: {fileID: 4847121090251712210}
   - component: {fileID: 4847121090251712211}
+  - component: {fileID: 8566910798864623470}
   m_Layer: 5
   m_Name: Texto_5
   m_TagString: Untagged
@@ -1486,6 +1525,23 @@ MonoBehaviour:
   textoCompleto: "Pasaron los a\xF1os y mi abuelo segu\xEDa sin aparecer, mi misi\xF3n
     es encontrarlo."
   textoActual: 
+  objetoSonidoLetras: {fileID: 0}
+  sonidoLetras: {fileID: 0}
+--- !u!114 &8566910798864623470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4847121090251712209}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0.9245283, g: 0.87387276, b: 0.20409395, a: 0.5}
+  m_EffectDistance: {x: 1, y: -1}
+  m_UseGraphicAlpha: 1
 --- !u!1 &4847121090344345345
 GameObject:
   m_ObjectHideFlags: 0
@@ -2019,3 +2075,5 @@ MonoBehaviour:
   textoCompleto: "me contaba sobre sus aventuras y de que hab\xEDa un gran mago supremo
     que ayudaba a todo el mundo, hasta que llegaba su hora y la oscuridad lo tragaba."
   textoActual: 
+  objetoSonidoLetras: {fileID: 0}
+  sonidoLetras: {fileID: 0}
